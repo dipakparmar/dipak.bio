@@ -137,7 +137,7 @@ export default function Home() {
           <div className="p-0 mx-0 mt-0 mb-4 align-baseline border-0">
             <div className="flex flex-col items-center p-0 mx-0 mt-3 mb-8 w-full h-full align-baseline border-0">
               <div className="p-0 mx-0 mt-0 mb-4 align-baseline border-0">
-                <img src="https://github.com/dipakparmar.png" alt="@iamdipakparmar Profile Image" data-testid="ProfileImage" className="block object-contain p-0 m-0 w-24 h-24 align-baseline border-0 filter-none" filter="none" style={{ borderRadius: '50%', objectPosition: 'initial' }} />
+                <Image src="https://github.com/dipakparmar.png" alt="@iamdipakparmar Profile Image" data-testid="ProfileImage" className="block object-contain p-0 m-0 w-24 h-24 align-baseline border-0 filter-none" filter="none" style={{ borderRadius: '50%', objectPosition: 'initial' }} />
               </div>
               <div className="grid items-center p-0 my-0 mx-3 max-w-full align-baseline border-0" style={{ gridTemplateColumns: '1fr auto 1fr' }}>
                 <h1 id="profile-iamdipakparmar" className="col-start-2 p-0 m-0 max-w-full text-base leading-normal align-baseline border-0 truncate">
