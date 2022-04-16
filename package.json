@@ -8,11 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
+    "autoprefixer": "^10.0.4",
+    "next": "^12.1.5",
+    "postcss": "^8.1.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "autoprefixer": "^10.0.4",
-    "postcss": "^8.1.10",
     "tailwindcss": "^2.0.2"
   }
 }
