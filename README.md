@@ -6,9 +6,9 @@ This project uses [Tailwind CSS](https://tailwindcss.com/) (v3) with Next.js.
 
 ### Environment Variables
 
-| Environment Var name  | Var Value  |                                                               Help/Link |
-| --------------------- | :--------: | ----------------------------------------------------------------------: |
-| NEXT_PUBLIC_GA_TAG_ID | G-XXXXXXXX | [HootSuite](https://blog.hootsuite.com/how-to-set-up-google-analytics/) |
+| Environment Var name  | Var Value  |                                                                                                                       Help/Link |
+| --------------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------: |
+| NEXT_PUBLIC_GA_TAG_ID | G-XXXXXXXX | [How to Set Up Google Analytics: A Step-by-Step Guide by HootSuite](https://blog.hootsuite.com/how-to-set-up-google-analytics/) |
 
 ## Deploy your own
 
