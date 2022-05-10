@@ -88,7 +88,7 @@ export default function Home() {
 					<div className="px-0 py-4 m-0 align-baseline border-0">
 						<div className="flex flex-wrap items-center justify-center w-full h-full p-0 m-0 align-baseline border-0" >
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://facebook.com/Iamdipakparmar" aria-label="@iamdipakparmar facebook" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.2827605702807443" >
 										facebook
 									</title>
@@ -96,7 +96,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://twitter.com/iamdipakparmar" aria-label="@iamdipakparmar twitter" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.6914293066042354" >
 										twitter
 									</title>
@@ -104,7 +104,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://instagram.com/iamdipakparmar" aria-label="@iamdipakparmar instagram" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.5749542016186786" >
 										instagram
 									</title>
@@ -114,7 +114,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://tiktok.com/@iamdipakparmar" aria-label="@iamdipakparmar tiktok" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.2331638454943532" >
 										tiktok
 									</title>
@@ -122,7 +122,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://linkedin.com/in/iamdipakparmar" aria-label="@iamdipakparmar linkedin" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.5305677872739589" >
 										linkedin
 									</title>
@@ -132,7 +132,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://twitch.tv/iamdipak" aria-label="@iamdipakparmar twitch" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.41220949119676087" >
 										twitch
 									</title>
@@ -143,7 +143,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="mailto:hello@dipak.tech" aria-label="@iamdipakparmar email_address" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.3606093758814355" >
 										email
 									</title>
@@ -154,7 +154,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://joinclubhouse.com/@iamdipakparmar" aria-label="@iamdipakparmar clubhouse" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.23511958583319004" >
 										clubhouse
 									</title>
@@ -162,7 +162,7 @@ export default function Home() {
 								</svg>
 							</a>
 							<a target="_blank" rel="noopener noreferrer" data-testid="SocialIcon" href="https://t.me/Dipakparmar65" aria-label="@iamdipakparmar telegram" className="z-0 px-2 pt-0 pb-3 m-0 align-baseline border-0 cursor-pointer" style={{ "WebkitTextDecoration": "underline", "textDecoration": "underline", "WebkitTransition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s", "transition": "transform 0s cubic-bezier(0.23, 1, 0.32, 1) 0s" }}>
-								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none" style={{}}>
+								<svg enableBackground="new 0 0 24 24" viewBox="0 0 24 24" className="w-8 h-8 pointer-events-none fill-blue-500" style={{}}>
 									<title data-testid="svgTitle" id="title_0.8638950275637867" >
 										telegram
 									</title>
