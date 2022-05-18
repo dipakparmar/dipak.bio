@@ -1,3 +1,4 @@
 table:
   schema: public
   name: social_link_type
+is_enum: true
