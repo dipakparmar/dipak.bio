@@ -5,3 +5,11 @@ object_relationships:
   - name: section
     using:
       foreign_key_constraint_on: section_id
+select_permissions:
+  - role: public
+    permission:
+      columns:
+        - position
+        - title
+        - url
+      filter: {}
