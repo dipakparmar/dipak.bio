@@ -1,3 +1,4 @@
 - "!include public_link_section.yaml"
 - "!include public_link_type.yaml"
 - "!include public_links.yaml"
+- "!include public_social_link_type.yaml"
