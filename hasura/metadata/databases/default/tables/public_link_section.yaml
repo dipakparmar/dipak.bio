@@ -1,3 +1,11 @@
 table:
   schema: public
   name: link_section
+array_relationships:
+  - name: links
+    using:
+      foreign_key_constraint_on:
+        column: section_id
+        table:
+          schema: public
+          name: links
