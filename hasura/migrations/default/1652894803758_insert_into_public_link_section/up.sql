@@ -1,0 +1,1 @@
+INSERT INTO "public"."link_section"("id", "title", "url", "created_at", "updated_at") VALUES (E'c595e221-5a62-4b4e-8e1a-1d9a22324b95', E'News/Blog', null, E'2022-05-18T17:26:41.341309+00:00', E'2022-05-18T17:26:41.341309+00:00');
