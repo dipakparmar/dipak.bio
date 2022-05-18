@@ -1,4 +1,4 @@
-CREATE TABLE "public"."links" ("id" uuid NOT NULL DEFAULT gen_random_uuid(), "type" text NOT NULL, "title" text NOT NULL, "position" integer NOT NULL, "url" text NOT NULL, "created_at" timestamptz NOT NULL DEFAULT now(), "updated_at" timestamptz NOT NULL DEFAULT now(), PRIMARY KEY ("id") , UNIQUE ("id"));COMMENT ON TABLE "public"."links" IS E'create links table';
+CREATE TABLE "public"."links" ("id" uuid NOT NULL DEFAULT gen_random_uuid(), "type" text NOT NULL, "title" text NOT NULL, "position" integer NOT NULL, "url" text NOT NULL, "section_id" uuid null, "created_at" timestamptz NOT NULL DEFAULT now(), "updated_at" timestamptz NOT NULL DEFAULT now(), PRIMARY KEY ("id") , UNIQUE ("id"));COMMENT ON TABLE "public"."links" IS E'create links table';
 CREATE OR REPLACE FUNCTION "public"."set_current_timestamp_updated_at"()
 RETURNS TRIGGER AS $$
 DECLARE

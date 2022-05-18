@@ -1,3 +1,7 @@
 table:
   schema: public
   name: links
+object_relationships:
+  - name: section
+    using:
+      foreign_key_constraint_on: section_id
