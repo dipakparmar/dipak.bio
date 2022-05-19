@@ -20,7 +20,8 @@ function MyApp({ Component, pageProps }) {
             });
                 `}
 				</Script> </> : null}
-			{process.env.NODE_ENV === 'production' ? <Script strategy="afterInteractive" async data-api="/_hive" src="/bee.js" /> : null}
+			{process.env.NODE_ENV === 'production' ? <> <Script strategy="afterInteractive" async data-api="/_hive" src="/bee.js" /> <Script strategy="afterInteractive" async defer data-website-id="048a30df-ed13-46a5-a116-b757128f40cd" data-do-not-track="true" src="https://analytics.dipak.io/umami.js" /></> : null}
+
 			<Head>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
