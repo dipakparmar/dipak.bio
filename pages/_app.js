@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
             });
                 `}
 				</Script> </> : null}
-			{process.env.NODE_ENV === 'production' ? <Script strategy="afterInteractive" async src="https://cdn.splitbee.io/sb.js" /> : null}
+			{process.env.NODE_ENV === 'production' ? <Script strategy="afterInteractive" async data-api="/_hive" src="/bee.js" /> : null}
 			<Head>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
