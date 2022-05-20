@@ -13,6 +13,14 @@ module.exports = {
 							source: "/_hive/:slug",
 							destination: "https://hive.splitbee.io/:slug",
 						},
+						{
+							source: "/ua.js",
+							destination: "https://analytics.dipak.io/umami.js",
+						},
+						{
+							source: "/api/collect",
+							destination: "https://analytics.dipak.io/api/collect",
+						},
         ]
     },
     images: {
