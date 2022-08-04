@@ -260,7 +260,10 @@ async function fetchGraphQL(operationsDoc, operationName, variables) {
 				query: operationsDoc,
 				variables: variables,
 				operationName: operationName
-			})
+			}),
+			Headers: {
+				"User-Agent": "dipak.bio/1.0.0"
+			}
 		}
 	);
 
