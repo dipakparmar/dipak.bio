@@ -7,7 +7,7 @@ export default async function handleWebhook(req, res) {
 		console.log(`[Next.js] Webhook secret validated`);
     try {
 			console.log(`[Next.js] Revalidating url /`);
-			await res.unstable_revalidate('/')
+			await res.revalidate('/')
 			console.log(`[Next.js] Revalidated url /`);
 			return res.json({ revalidated: true })
 		} catch (err) {
