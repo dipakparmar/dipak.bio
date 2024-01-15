@@ -1,6 +1,6 @@
 const ContentSecurityPolicy = `
 	default-src 'self';
-	script-src 'self' https://cdn.splitbee.io https://analytics.dipak.io https://hive.splitbee.io https://va.vercel-scripts.com 'unsafe-eval';
+	script-src 'self' https://cdn.splitbee.io https://analytics.dipak.io https://hive.splitbee.io https://va.vercel-scripts.com https://wwww.googletagmanager.com 'unsafe-eval' 'unsafe-inline';
 	style-src 'self' https://rsms.me https://fonts.googleapis.com 'unsafe-inline';
 	child-src ;
 	frame-src ;
