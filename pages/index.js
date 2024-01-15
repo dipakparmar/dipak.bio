@@ -14,7 +14,7 @@ export default function Home({ links, social_links }) {
 					<div className="p-0 mx-0 mt-0 mb-4 align-baseline border-0">
 						<div className="flex flex-col items-center w-full h-full p-0 mx-0 mt-3 mb-8 align-baseline border-0">
 							<div className="p-0 mx-0 mt-0 mb-4 align-baseline border-0">
-								<Image src="https://github.com/dipakparmar.png" width="100" height="100" alt="@iamdipakparmar Profile Image" data-testid="ProfileImage" className="block object-contain w-24 h-24 p-0 m-0 align-baseline border-0 filter-none" filter="none" style={{ borderRadius: '50%', objectPosition: 'initial' }} />
+								<Image src="https://github.com/dipakparmar.png" priority={true} width="100" height="100" alt="@iamdipakparmar Profile Image" data-testid="ProfileImage" className="block object-contain w-24 h-24 p-0 m-0 align-baseline border-0 filter-none" filter="none" style={{ borderRadius: '50%', objectPosition: 'initial' }} />
 							</div>
 							<div className="grid items-center max-w-full p-0 mx-3 my-0 align-baseline border-0" style={{ gridTemplateColumns: '1fr auto 1fr' }}>
 								<h1 id="profile-iamdipakparmar" className="max-w-full col-start-2 p-0 m-0 text-base leading-normal truncate align-baseline border-0">
